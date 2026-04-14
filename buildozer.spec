@@ -42,7 +42,7 @@ android.permissions = \
 android.wakelock = True
 
 # Branch estavel do python-for-android
-p4a.branch = release-2023.09.16
+p4a.branch = release-2024.01.21
 
 # Features do Android (necessario para Bluetooth)
 android.features = android.hardware.bluetooth
